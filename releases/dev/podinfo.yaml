@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: kristofmoens/podinfo
-      tag: dev-hdtwcel9
+      tag: dev-s5rpihcs
     replicaCount: 1
     hpa:
       enabled: false
